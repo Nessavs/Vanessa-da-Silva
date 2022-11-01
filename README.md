@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Sou Vanessa, sou uma Desenvolvedora Júnior 👨‍💻 e amo animais 🐶🐱
-“A persistência é o menor caminho do êxito.” – Charles Chaplin. 🚀</div>  
+######“A persistência é o menor caminho do êxito.” – Charles Chaplin. 🚀</div>  
   
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Técnico.  
