@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Técnico.  
   
-- 🌱 Atualmente estou aprendendo Desenvolvimento Swift em um Curso EAD.  
+- 🌱 No momento estou aprendendo Desenvolvimento Swift.  
   
 - ⚡ Curiosidade: Gosto bastante de usar a criatividade.  
   
